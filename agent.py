@@ -35,9 +35,8 @@ def get_value(number):
     # Example in which a PowerShell script is used. The STDOUT is used to pass results back to python.
     # Exporting with export-csv and reading the CSV using Python is also possible of course.
     if number == 4:
-        p=subprocess.Popen(['powershell.exe',    # Atlijd gelijk of volledig pad naar powershell.exe
-            '-ExecutionPolicy', 'Unrestricted',  # Override current Execution Policy
-            'c:\\scripts\\agent_counters.ps1'],  # Naam van en pad naar je PowerShell script
+        p=subprocess.Popen(['powershell',
+            '''(Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/wmi | measure-object CurrentTemperature -Average).Average/10-273.15 #gemiddelde temperatuur /10 = kelvin -273.15 = celcius'''],
         stdout=subprocess.PIPE)                  # Zorg ervoor dat je de STDOUT kan opvragen.
         output = p.stdout.read()                 # De stdout
         return output
@@ -45,10 +44,61 @@ def get_value(number):
     # Example of sing a PowerShell oneliner. Useful for simple PowerShell commands.
     if number == 5:
         p=subprocess.Popen(['powershell',
-            "get-service | measure-object | select -expandproperty count"],
+            '''(Get-WmiObject Win32_PhysicalMemory | measure-object Capacity -sum).sum/1gb #Totaal geheugen op apparaat'''],
         stdout=subprocess.PIPE)                  # Zorg ervoor dat je de STDOUT kan opvragen.
         output = p.stdout.read()                 # De stdout
         return output
+
+	    # Example of sing a PowerShell oneliner. Useful for simple PowerShell commands.
+    if number == 6:
+        p=subprocess.Popen(['powershell',
+            '''(get-service | where {$_.status -eq 'Running'}).count #aantal draaiende processen'''],
+        stdout=subprocess.PIPE)                  # Zorg ervoor dat je de STDOUT kan opvragen.
+        output = p.stdout.read()                 # De stdout
+        return output	
+		
+	    # Example of sing a PowerShell oneliner. Useful for simple PowerShell commands.
+    if number == 7:
+        p=subprocess.Popen(['powershell',
+            '''Get-CimInstance win32_logicaldisk | foreach-object {write " $($_.caption) $('{0:N2}' -f ($_.FreeSpace/1gb)) GB"} #Vrije ruimte op schijven in GB'''],
+        stdout=subprocess.PIPE)                  # Zorg ervoor dat je de STDOUT kan opvragen.
+        output = p.stdout.read()                 # De stdout
+        return output		
+		
+			    # Example of sing a PowerShell oneliner. Useful for simple PowerShell commands.
+    if number == 8:
+        p=subprocess.Popen(['powershell',
+            '''(Get-WmiObject -Class win32_process ` -Filter "name='explorer.exe'" | Foreach-Object {$_.GetOwner()} | Select User).count #Controleer wie explorer.exe draait geeft info terug gefilterd op User, en telt op'''],
+        stdout=subprocess.PIPE)                  # Zorg ervoor dat je de STDOUT kan opvragen.
+        output = p.stdout.read()                 # De stdout
+        return output		
+		
+    # Example in which a PowerShell script is used. The STDOUT is used to pass results back to python.
+    # Exporting with export-csv and reading the CSV using Python is also possible of course.
+    if number == 9:
+        p=subprocess.Popen(['powershell.exe',    # Atlijd gelijk of volledig pad naar powershell.exe
+            '-ExecutionPolicy', 'Unrestricted',  # Override current Execution Policy
+            'c:\\scripts\\Get-Uptime.ps1'],  # Naam van en pad naar je PowerShell script
+        stdout=subprocess.PIPE)                  # Zorg ervoor dat je de STDOUT kan opvragen.
+        output = p.stdout.read()                 # De stdout
+        return output
+
+				    # Example of sing a PowerShell oneliner. Useful for simple PowerShell commands.
+    if number == 10:
+        p=subprocess.Popen(['powershell',
+            '''systeminfo | find "Available Physical Memory"'''],
+        stdout=subprocess.PIPE)                  # Zorg ervoor dat je de STDOUT kan opvragen.
+        output = p.stdout.read()                 # De stdout
+        return output	
+
+					# Example of sing a PowerShell oneliner. Useful for simple PowerShell commands.
+    if number == 11:
+        p=subprocess.Popen(['powershell',
+            '''Get-NetIPAddress -AddressFamily IPv4 | select IPAddress | Foreach-Object {write " $($_.caption) $('{0:N2}' -f ($_.IPAddress))"}'''],
+        stdout=subprocess.PIPE)                  # Zorg ervoor dat je de STDOUT kan opvragen.
+        output = p.stdout.read()                 # De stdout
+        return output.split(':')[1]	
+		
 
     # Last value
     return None
