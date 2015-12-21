@@ -55,24 +55,24 @@ def get_value(number):
             '''(get-service | where {$_.status -eq 'Running'}).count #aantal draaiende processen'''],
         stdout=subprocess.PIPE)                  # Zorg ervoor dat je de STDOUT kan opvragen.
         output = p.stdout.read()                 # De stdout
-        return output
-
+        return output	
+		
 	    # Example of sing a PowerShell oneliner. Useful for simple PowerShell commands.
     if number == 7:
         p=subprocess.Popen(['powershell',
             '''Get-CimInstance win32_logicaldisk | foreach-object {write " $($_.caption) $('{0:N2}' -f ($_.FreeSpace/1gb)) GB"} #Vrije ruimte op schijven in GB'''],
         stdout=subprocess.PIPE)                  # Zorg ervoor dat je de STDOUT kan opvragen.
         output = p.stdout.read()                 # De stdout
-        return output
-
+        return output		
+		
 			    # Example of sing a PowerShell oneliner. Useful for simple PowerShell commands.
     if number == 8:
         p=subprocess.Popen(['powershell',
             '''(Get-WmiObject -Class win32_process ` -Filter "name='explorer.exe'" | Foreach-Object {$_.GetOwner()} | Select User).count #Controleer wie explorer.exe draait geeft info terug gefilterd op User, en telt op'''],
         stdout=subprocess.PIPE)                  # Zorg ervoor dat je de STDOUT kan opvragen.
         output = p.stdout.read()                 # De stdout
-        return output
-
+        return output		
+		
     # Example in which a PowerShell script is used. The STDOUT is used to pass results back to python.
     # Exporting with export-csv and reading the CSV using Python is also possible of course.
     if number == 9:
@@ -89,7 +89,7 @@ def get_value(number):
             '''systeminfo | find "Available Physical Memory"'''],
         stdout=subprocess.PIPE)                  # Zorg ervoor dat je de STDOUT kan opvragen.
         output = p.stdout.read()                 # De stdout
-        return output
+        return output	
 
 					# Example of sing a PowerShell oneliner. Useful for simple PowerShell commands.
     if number == 11:
@@ -97,8 +97,8 @@ def get_value(number):
             '''Get-NetIPAddress -AddressFamily IPv4 | select IPAddress | Foreach-Object {write " $($_.caption) $('{0:N2}' -f ($_.IPAddress))"}'''],
         stdout=subprocess.PIPE)                  # Zorg ervoor dat je de STDOUT kan opvragen.
         output = p.stdout.read()                 # De stdout
-        return output.split(':')[0]
-
+        return output.split(':')[1]	
+		
 
     # Last value
     return None
