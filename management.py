@@ -1,6 +1,20 @@
 from pysimplesoap.client import SoapClient, SoapFault
 import cgitb
+import logging
+import os
+import csv
 cgitb.enable()
+
+#logging management script
+logging.getLogger('').handlers = []
+logger = logging.getLogger('')
+##logging.basicConfig(filename=locatie,level=logging.DEBUG,filemode='w')
+hdlr = logging.FileHandler('management.log')
+formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
+hdlr.setFormatter(formatter)
+logger.addHandler(hdlr)
+logger.setLevel(logging.INFO)
+logger.info('Start management sessie')
 
 print 'Status: 200 OK'
 print 'Content-type: text/html'
@@ -51,5 +65,23 @@ print "Beschikbare werkgeheugen :", r10.rstrip()
 print '<br>'
 r11=str(client.get_value(number=11).resultaat)
 print "Beschikbare IPv4 Adressen :", r11.rstrip()
+print '<br>'
+logger.info('Einde management sessie')
+
+#export CSV
+logger.info('Start CSV sessie')
+b = os.path.isfile('gegevens.csv')
+a = open('gegevens.csv', ('ab'))
+
+write = csv.writer(a,delimiter=';')
+if b == False:
+    write.writerow(['Platform','Tekenset','Poort nummer','Temperatuur','Fysiek geheugen','Aantal services','Vrije schijfruimte','Aantal ingelogdegebruikers','Uptime','Vrije werkgeheugen','IPv4 Addressen'])
+else:
+    pass
+write = csv.writer(a,delimiter=';')
+write.writerow([r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11])
+a.close()
+logger.info('Einde CSV sessie')
+print 'Gegevens geexporteert naar gegevens.csv'
 print '</p>'
 print '</html>'
