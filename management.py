@@ -1,9 +1,10 @@
 from pysimplesoap.client import SoapClient, SoapFault
+import commands
 
 # create a simple consumer
 client = SoapClient(
-    location = "http://192.168.178.24:8008/",
-    action = 'http://192.168.178.24:8008/', # SOAPAction
+    location = "http://192.168.0.109:8008/",
+    action = 'http://192.168.0.109:8008/', # SOAPAction
     namespace = "http://example.com/sample.wsdl",
     soap_ns='soap',
     ns = False)
