@@ -2,8 +2,8 @@ from pysimplesoap.client import SoapClient, SoapFault
 
 # create a simple consumer
 client = SoapClient(
-    location = "http://192.168.178.24:8008/",
-    action = 'http://192.168.178.24:8008/', # SOAPAction
+    location = "http://localhost:8008/",
+    action = 'http://localhost:8008/', # SOAPAction
     namespace = "http://example.com/sample.wsdl",
     soap_ns='soap',
     ns = False)
@@ -38,6 +38,3 @@ print "Resultaat Uptime :", r9.rstrip()
 
 r10=str(client.get_value(number=10).resultaat)
 print "Beschikbare werkgeheugen :", r10.rstrip()
-
-r11=str(client.get_value(number=11).resultaat)
-print "IP adressen :", r11.rstrip()
