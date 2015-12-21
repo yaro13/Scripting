@@ -1,40 +1,55 @@
 from pysimplesoap.client import SoapClient, SoapFault
+import cgitb
+cgitb.enable()
+
+print 'Status: 200 OK'
+print 'Content-type: text/html'
+print
+
+print '<HTML><HEAD><TITLE>Python Sample CGI</TITLE></HEAD>'
+print '<BODY>'
+print '<H1>Server Gegevens</H1>'
+print '<p>'
 
 # create a simple consumer
 client = SoapClient(
-    location = "http://localhost:8008/",
-    action = 'http://localhost:8008/', # SOAPAction
+    location = "http://192.168.0.108:8008/",
+    action = 'http://192.168.0.108:8008/', # SOAPAction
     namespace = "http://example.com/sample.wsdl",
     soap_ns='soap',
     ns = False)
-
 # call a few remote methods
 r1=str(client.get_value(number=1).resultaat)
 print "Resultaat Platform :", r1
-
+print '<br>'
 r2=str(client.get_value(number=2).resultaat)
 print "Resultaat Tekenset :", r2.rstrip()
-
+print '<br>'
 r3=str(client.get_value(number=3).resultaat)
 print "Resultaat Poort :", int(r3) # r3 is a number!
-
+print '<br>'
 r4=str(client.get_value(number=4).resultaat)
 print "Resultaat Temperatuur :", r4.rstrip() # This is a multiline: strip the newline from the result!
-
+print '<br>'
 r5=str(client.get_value(number=5).resultaat)
 print "Resultaat Fysiek geheugen :", r5.rstrip()
-
+print '<br>'
 r6=str(client.get_value(number=6).resultaat)
 print "Resultaat Aantal Services :", r6.rstrip()
-
+print '<br>'
 r7=str(client.get_value(number=7).resultaat)
 print "Resultaat Vrije Schijfruimte :", r7.rstrip()
-
+print '<br>'
 r8=str(client.get_value(number=8).resultaat)
 print "Resultaat Aantal ingelogde gebruikers :", r8.rstrip()
-
+print '<br>'
 r9=str(client.get_value(number=9).resultaat)
 print "Resultaat Uptime :", r9.rstrip()
-
+print '<br>'
 r10=str(client.get_value(number=10).resultaat)
 print "Beschikbare werkgeheugen :", r10.rstrip()
+print '<br>'
+r11=str(client.get_value(number=11).resultaat)
+print "Beschikbare IPv4 Adressen :", r11.rstrip()
+print '</p>'
+print '</html>'
