@@ -1,0 +1,98 @@
+Hostname;Platform;Tekenset;Poort nummer;Temperatuur;Fysiek geheugen;Aantal services;Vrije schijfruimte;Aantal ingelogdegebruikers;Uptime;Vrije werkgeheugen;IPv4 Addressen
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";78;;1;0 days, 0 hours, 19 minutes; 2.916 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4GB;81;;1;0 days, 0 hours, 28 minutes; 2.914 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;81;;1;0 days, 0 hours, 30 minutes; 2.745 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;79;;1;0 days, 0 hours, 37 minutes; 2.726 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;78; C: 13,87 GB D: 0,00 GB;1;0 days, 0 hours, 45 minutes; 2.668 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;77; C: 13,44 GB D: 0,00 GB;1;0 days, 1 hours, 5 minutes; 2.493 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;77; C: 13,44 GB D: 0,00 GB;1;0 days, 1 hours, 17 minutes; 2.518 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;77; C: 13,44 GB D: 0,00 GB;1;0 days, 1 hours, 25 minutes; 2.516 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;sys.platform;sys.getdefaultencoding();8888;Temperatuur kan niet worden opgevraagd;4 GB;79; C: 13,44 GB D: 0,00 GB;1;0 days, 1 hours, 27 minutes; 2.497 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;78; C: 13,43 GB D: 0,00 GB;1;0 days, 1 hours, 30 minutes; 2.479 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;78; C: 13,43 GB D: 0,00 GB;1;0 days, 1 hours, 36 minutes; 2.489 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;77; C: 13,43 GB D: 0,00 GB;1;0 days, 1 hours, 39 minutes; 2.428 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;77; C: 13,43 GB D: 0,00 GB;1;0 days, 1 hours, 41 minutes; 2.498 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;77; C: 13,43 GB D: 0,00 GB;1;0 days, 1 hours, 44 minutes; 2.496 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;78; C: 13,42 GB D: 0,00 GB;1;0 days, 1 hours, 44 minutes; 2.488 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;77; C: 13,43 GB D: 0,00 GB;"Windows PowerShell 
+Copyright (C) 2015 Microsoft Corporation. All rights reserved.
+
+";0 days, 1 hours, 50 minutes; 2.493 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;78; C: 13,43 GB D: 0,00 GB;1;0 days, 1 hours, 52 minutes; 2.486 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;77; C: 13,43 GB D: 0,00 GB;1;"c:\\scripts\\Get-Uptime.ps1 : File C:\scripts\Get-Uptime.ps1 cannot be loaded because running scripts is disabled on th
+is system. For more information, see about_Execution_Policies at http://go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:1
++ c:\\scripts\\Get-Uptime.ps1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+"; 2.497 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;77; C: 13,43 GB D: 0,00 GB;1;0 days, 1 hours, 59 minutes; 2.499 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;77; C: 13,43 GB D: 0,00 GB;1;0 days, 2 hours, 3 minutes;" "".
+    + CategoryInfo          ";"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;77; C: 13,42 GB D: 0,00 GB;1;0 days, 2 hours, 4 minutes;" "".
+    + CategoryInfo          ";"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;78; C: 13,42 GB D: 0,00 GB;1;0 days, 2 hours, 8 minutes; 2.448 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;78; C: 13,39 GB D: 0,00 GB;1;0 days, 2 hours, 40 minutes; 2.644 MB;"  192.168.1.143
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;78; C: 13,53 GB D: 0,00 GB;1;0 days, 0 hours, 17 minutes; 3.000 MB;"  192.168.1.118
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;77; C: 13,54 GB D: 0,00 GB;1;0 days, 0 hours, 22 minutes; 2.853 MB;"  192.168.1.118
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;76; C: 13,53 GB D: 0,00 GB;1;0 days, 0 hours, 24 minutes; 2.826 MB;"  192.168.1.118
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;77; C: 13,53 GB D: 0,00 GB;1;0 days, 0 hours, 26 minutes; 2.818 MB;"  192.168.1.118
+  127.0.0.1
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;4 GB;76; C: 13,53 GB D: 0,00 GB;1;0 days, 0 hours, 28 minutes; 2.821 MB;"  192.168.1.118
+  127.0.0.1
+"

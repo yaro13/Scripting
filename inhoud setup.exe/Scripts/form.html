@@ -1,0 +1,30 @@
+<form  id="contactForm" METHOD="post" ACTION="resultaat.py">
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+							<label>Welke Agent analyseren</label><BR>
+							<BR>
+							<SELECT class="form-control" NAME="ip">
+							<OPTION value="" > --- Welke Agent analyseren --- </OPTION>
+							<OPTION value="192.168.178.24">192.168.178.24</OPTION>
+							<OPTION value="192.168.178.25">192.168.178.25</OPTION>
+							<OPTION value="Anders">Anders</OPTION>
+							</SELECT>
+							
+                            </div>
+                        </div>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+								<label>IP Adres</label>
+                                <input class="col-xs-12" type="text" Name="invoer_ip" placeholder="Indien anders vul hier het IP Adres in.">
+                            </div>
+                        </div>
+                        <br>
+                        <div class="row">
+                            <div class="form-group col-xs-12">
+								<center>
+								<input type="submit" value="submit"/>
+                                <button type="submit" class="btn btn-success btn-lg"><img class="img-responsive" src="img/profile.png" alt="">Verzenden</button>
+								</center>
+                            </div>
+                        </div>
+                    </form>

@@ -1,0 +1,1034 @@
+Platform;Tekenset;Poort nummer;Temperatuur;Fysiek geheugen;Aantal services;Vrije schijfruimte;Aantal ingelogdegebruikers;Uptime;Vrije werkgeheugen;IPv4 Addressen
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"77
+";" C: 13,10 GB
+ D: 0,00 GB
+";;"0 days, 5 hours, 21 minutes
+";"Available Physical Memory: 2.935 MB
+";"  192.168.0.108
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"78
+";" C: 13,21 GB
+ D: 0,00 GB
+";;"0 days, 0 hours, 3 minutes
+";"Available Physical Memory: 3.156 MB
+";"  192.168.0.108
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"76
+";" C: 13,21 GB
+ D: 0,00 GB
+";;"0 days, 0 hours, 5 minutes
+";"Available Physical Memory: 3.173 MB
+";"  192.168.0.108
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"76
+";" C: 13,21 GB
+ D: 0,00 GB
+";;"0 days, 0 hours, 5 minutes
+";"Available Physical Memory: 3.173 MB
+";"  192.168.0.108
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"82
+";" C: 13,19 GB
+ D: 0,00 GB
+";;"0 days, 0 hours, 8 minutes
+";"Available Physical Memory: 2.898 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"77
+";" C: 13,07 GB
+ D: 0,00 GB
+";;"0 days, 0 hours, 24 minutes
+";"Available Physical Memory: 2.696 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"77
+";" C: 13,08 GB
+ D: 0,00 GB
+";;"0 days, 0 hours, 24 minutes
+";"Available Physical Memory: 2.760 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"78
+";" C: 13,15 GB
+ D: 0,00 GB
+";;"0 days, 0 hours, 27 minutes
+";"Available Physical Memory: 3.009 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"72
+";" C: 13,17 GB
+ D: 0,00 GB
+";;"0 days, 2 hours, 26 minutes
+";"Available Physical Memory: 3.141 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"73
+";" C: 13,17 GB
+ D: 0,00 GB
+";;"0 days, 2 hours, 27 minutes
+";"Available Physical Memory: 3.120 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"74
+";" C: 13,15 GB
+ D: 0,00 GB
+";;"0 days, 2 hours, 35 minutes
+";"Available Physical Memory: 2.938 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"76
+";" C: 13,15 GB
+ D: 0,00 GB
+";;"0 days, 2 hours, 36 minutes
+";"Available Physical Memory: 2.848 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"74
+";" C: 13,15 GB
+ D: 0,00 GB
+";;"0 days, 2 hours, 41 minutes
+";"Available Physical Memory: 2.943 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"75
+";" C: 13,15 GB
+ D: 0,00 GB
+";;"0 days, 2 hours, 43 minutes
+";"Available Physical Memory: 2.935 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"73
+";" C: 13,14 GB
+ D: 0,00 GB
+";;"0 days, 2 hours, 47 minutes
+";"Available Physical Memory: 2.931 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"74
+";" C: 13,14 GB
+ D: 0,00 GB
+";;"0 days, 2 hours, 48 minutes
+";"Available Physical Memory: 2.909 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"74
+";" C: 13,14 GB
+ D: 0,00 GB
+";;"0 days, 2 hours, 48 minutes
+";"Available Physical Memory: 2.909 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"74
+";" C: 13,14 GB
+ D: 0,00 GB
+";;"0 days, 2 hours, 48 minutes
+";"Available Physical Memory: 2.908 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"73
+";" C: 13,14 GB
+ D: 0,00 GB
+";;"0 days, 2 hours, 52 minutes
+";"Available Physical Memory: 2.757 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"73
+";" C: 13,14 GB
+ D: 0,00 GB
+";;"0 days, 2 hours, 56 minutes
+";"Available Physical Memory: 2.713 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"74
+";" C: 13,14 GB
+ D: 0,00 GB
+";;"0 days, 2 hours, 58 minutes
+";"Available Physical Memory: 2.711 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"74
+";" C: 13,14 GB
+ D: 0,00 GB
+";;"0 days, 2 hours, 59 minutes
+";"Available Physical Memory: 2.699 MB
+";"  192.168.178.25
+  127.0.0.1
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"74
+";" C: 13,14 GB
+ D: 0,00 GB
+";;"0 days, 3 hours, 4 minutes
+";"Available Physical Memory: 2.723 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"75
+";" C: 13,14 GB
+ D: 0,00 GB
+";;"0 days, 3 hours, 6 minutes
+";"Available Physical Memory: 2.717 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"75
+";" C: 13,14 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 7 minutes
+";"Available Physical Memory: 2.715 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"84
+";" C: 13,13 GB
+ D: 0,00 GB
+";"2
+";"0 days, 3 hours, 8 minutes
+";"Available Physical Memory: 2.479 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"79
+";" C: 13,11 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 11 minutes
+";"Available Physical Memory: 2.636 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"80
+";" C: 13,11 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 12 minutes
+";"Available Physical Memory: 2.640 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"77
+";" C: 13,11 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 14 minutes
+";" 2.664 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"78
+";" C: 13,11 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 16 minutes
+";" 2.654 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"78
+";" C: 13,11 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 16 minutes
+";" 2.672 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"78
+";" C: 13,11 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 17 minutes
+";" 2.673 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"77
+";" C: 13,11 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 18 minutes
+";" 2.682 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"77
+";" C: 13,11 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 19 minutes
+";" 2.666 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"77
+";" C: 13,11 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 20 minutes
+";" 2.674 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"-273,15
+";"4
+";"76
+";" C: 13,11 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 21 minutes
+";" 2.679 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"76
+";" C: 13,11 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 22 minutes
+";" 2.704 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"77
+";" C: 13,11 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 23 minutes
+";" 2.657 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"77
+";" C: 13,11 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 24 minutes
+";" 2.657 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"77
+";" C: 13,11 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 25 minutes
+";" 2.668 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"76
+";" C: 13,10 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 30 minutes
+";" 2.676 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15
+";"4
+";"75
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 49 minutes
+";" 2.610 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd.;"4
+";"75
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 3 hours, 51 minutes
+";" 2.605 MB
+"
+"JKLP17082015
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"16
+";"94
+";" C: 514,88 GB
+ E: 0,00 GB
+";1;"3 days, 17 hours, 23 minutes
+";" 6.838 MB
+"
+"JKLP17082015
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"16
+";"95
+";" C: 514,86 GB
+ E: 0,00 GB
+";1;"3 days, 17 hours, 33 minutes
+";" 6.879 MB
+"
+"JKLP17082015
+";win32;ascii;8888;"Get-WmiObject : Toegang geweigerd 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15";"16
+";"92
+";" C: 514,86 GB
+ E: 0,00 GB
+";1;"3 days, 17 hours, 41 minutes
+";" 6.880 MB
+"
+"JKLP17082015
+";win32;ascii;8888;"Get-WmiObject : Toegang geweigerd 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15";"16
+";"93
+";;1;"3 days, 17 hours, 42 minutes
+";" 6.833 MB
+"
+"JKLP17082015
+";win32;ascii;8888;28,05;"16
+";"93
+";" C: 514,85 GB
+ E: 0,00 GB
+";1;"3 days, 17 hours, 43 minutes
+";" 6.835 MB
+"
+"JKLP17082015
+";win32;ascii;8888;28,05;"16
+";"93
+";" C: 514,85 GB
+ E: 0,00 GB
+";1;"3 days, 17 hours, 43 minutes
+";" 6.832 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15";"4
+";"76
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 4 hours, 16 minutes
+";" 2.669 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;"Get-WmiObject : Niet ondersteund 
+At line:1 char:2
++ (Get-WmiObject -Class MSAcpi_ThermalZoneTemperature -Namespace root/w ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-WmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
+ 
+-273,15";"4
+";"76
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 4 hours, 19 minutes
+";" 2.678 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Ge hebt een VM kut!;"4
+";"77
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 4 hours, 19 minutes
+";" 2.670 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Ge hebt een VM kut!;"4
+";"77
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 4 hours, 19 minutes
+";" 2.672 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Ge hebt een VM kut!;"4
+GB";"77
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 4 hours, 21 minutes
+";" 2.677 MB
+"
+"JKLP17082015
+";win32;ascii;8888;Ge hebt een VM kut!;"16
+GB";"92
+";" C: 514,84 GB
+ E: 0,00 GB
+";1;"3 days, 17 hours, 52 minutes
+";" 6.739 MB
+"
+"JKLP17082015
+";win32;ascii;8888;28,05;"16
+GB";"93
+";" C: 514,84 GB
+ E: 0,00 GB
+";1;"3 days, 17 hours, 54 minutes
+";" 6.679 MB
+"
+"JKLP17082015
+";win32;ascii;8888;28,05;"16
+GB";"92
+";" C: 514,83 GB
+ E: 0,00 GB
+";1;"3 days, 17 hours, 57 minutes
+";" 6.549 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"75
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 4 hours, 55 minutes
+";" 2.656 MB
+"
+"JKLP17082015
+";win32;ascii;8888;28,05;"16
+GB";"92
+";" C: 514,72 GB
+ E: 0,00 GB
+";1;"3 days, 18 hours, 27 minutes
+";" 6.550 MB
+"
+"JKLP17082015
+";win32;ascii;8888;28,05&#8451;"16
+GB";"93
+";" C: 514,72 GB
+ E: 0,00 GB
+";1;"3 days, 18 hours, 28 minutes
+";" 6.549 MB
+"
+"JKLP17082015
+";win32;ascii;8888;28,05 &#8451;"16
+GB";"93
+";" C: 514,71 GB
+ E: 0,00 GB
+";1;"3 days, 18 hours, 30 minutes
+";" 6.542 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"75
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 5 hours, 8 minutes
+";" 2.661 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"76
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 5 hours, 9 minutes
+";" 2.653 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"75
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 5 hours, 25 minutes
+";" 2.661 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"76
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 5 hours, 26 minutes
+";" 2.650 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"76
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 5 hours, 26 minutes
+";" 2.644 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"76
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 5 hours, 27 minutes
+";" 2.640 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"76
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 5 hours, 27 minutes
+";" 2.641 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"76
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 5 hours, 27 minutes
+";" 2.642 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"76
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 5 hours, 28 minutes
+";" 2.642 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"75
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 5 hours, 31 minutes
+";" 2.653 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"75
+";" C: 13,00 GB
+ D: 0,00 GB
+";1;"0 days, 5 hours, 35 minutes
+";" 2.656 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"76
+";" C: 13,00 GB
+ D: 0,00 GB
+";1;"0 days, 5 hours, 37 minutes
+";" 2.649 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"75
+";" C: 13,00 GB
+ D: 0,00 GB
+";1;"0 days, 5 hours, 39 minutes
+";" 2.661 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"76
+";" C: 13,00 GB
+ D: 0,00 GB
+";1;"0 days, 5 hours, 41 minutes
+";" 2.658 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"75
+";" C: 13,00 GB
+ D: 0,00 GB
+";1;"0 days, 5 hours, 57 minutes
+";" 2.648 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"75
+";" C: 13,00 GB
+ D: 0,00 GB
+";1;"0 days, 6 hours, 1 minutes
+";" 2.659 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"76
+";" C: 13,00 GB
+ D: 0,00 GB
+";1;"0 days, 6 hours, 2 minutes
+";" 2.648 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"76
+";" C: 13,00 GB
+ D: 0,00 GB
+";1;"0 days, 6 hours, 2 minutes
+";" 2.658 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"78
+";" C: 13,01 GB
+ D: 0,00 GB
+";1;"0 days, 6 hours, 3 minutes
+";" 2.824 MB
+"
+"DESKTOP-08BSON3
+";win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"82
+";" C: 13,70 GB
+ D: 0,00 GB
+";1;"0 days, 0 hours, 6 minutes
+";" 2.893 MB
+"
+DESKTOP-08BSON3;win32;ascii;8888;Temperatuur kan niet worden opgevraagd;"4
+GB";"81
+";" C: 13,87 GB
+ D: 0,00 GB
+";1;"0 days, 0 hours, 9 minutes
+";" 2.930 MB
+"

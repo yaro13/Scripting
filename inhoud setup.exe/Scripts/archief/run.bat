@@ -1,0 +1,1 @@
+c:\\P2.7.6.1\App\python.exe c:\scripts\agent.py

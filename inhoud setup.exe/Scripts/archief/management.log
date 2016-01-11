@@ -1,0 +1,24 @@
+2015-12-21 16:14:49,048 INFO Start management sessie
+2015-12-21 16:14:49,052 INFO POST http://192.168.0.108:8008/
+2015-12-21 16:14:49,052 INFO Headers: {'SOAPAction': '"http://192.168.0.108:8008/get_value"', 'Content-length': '354', 'Content-type': 'text/xml; charset="UTF-8"'}
+2015-12-21 16:14:49,111 INFO POST http://192.168.0.108:8008/
+2015-12-21 16:14:49,111 INFO Headers: {'SOAPAction': '"http://192.168.0.108:8008/get_value"', 'Content-length': '354', 'Content-type': 'text/xml; charset="UTF-8"'}
+2015-12-21 16:14:49,122 INFO POST http://192.168.0.108:8008/
+2015-12-21 16:14:49,122 INFO Headers: {'SOAPAction': '"http://192.168.0.108:8008/get_value"', 'Content-length': '354', 'Content-type': 'text/xml; charset="UTF-8"'}
+2015-12-21 16:14:49,135 INFO POST http://192.168.0.108:8008/
+2015-12-21 16:14:49,135 INFO Headers: {'SOAPAction': '"http://192.168.0.108:8008/get_value"', 'Content-length': '354', 'Content-type': 'text/xml; charset="UTF-8"'}
+2015-12-21 16:14:49,944 INFO POST http://192.168.0.108:8008/
+2015-12-21 16:14:49,944 INFO Headers: {'SOAPAction': '"http://192.168.0.108:8008/get_value"', 'Content-length': '354', 'Content-type': 'text/xml; charset="UTF-8"'}
+2015-12-21 16:14:50,691 INFO POST http://192.168.0.108:8008/
+2015-12-21 16:14:50,691 INFO Headers: {'SOAPAction': '"http://192.168.0.108:8008/get_value"', 'Content-length': '354', 'Content-type': 'text/xml; charset="UTF-8"'}
+2015-12-21 16:14:51,283 INFO POST http://192.168.0.108:8008/
+2015-12-21 16:14:51,283 INFO Headers: {'SOAPAction': '"http://192.168.0.108:8008/get_value"', 'Content-length': '354', 'Content-type': 'text/xml; charset="UTF-8"'}
+2015-12-21 16:14:52,105 INFO POST http://192.168.0.108:8008/
+2015-12-21 16:14:52,105 INFO Headers: {'SOAPAction': '"http://192.168.0.108:8008/get_value"', 'Content-length': '354', 'Content-type': 'text/xml; charset="UTF-8"'}
+2015-12-21 16:14:52,901 INFO POST http://192.168.0.108:8008/
+2015-12-21 16:14:52,901 INFO Headers: {'SOAPAction': '"http://192.168.0.108:8008/get_value"', 'Content-length': '354', 'Content-type': 'text/xml; charset="UTF-8"'}
+2015-12-21 16:14:53,674 INFO POST http://192.168.0.108:8008/
+2015-12-21 16:14:53,674 INFO Headers: {'SOAPAction': '"http://192.168.0.108:8008/get_value"', 'Content-length': '355', 'Content-type': 'text/xml; charset="UTF-8"'}
+2015-12-21 16:14:55,875 INFO POST http://192.168.0.108:8008/
+2015-12-21 16:14:55,875 INFO Headers: {'SOAPAction': '"http://192.168.0.108:8008/get_value"', 'Content-length': '355', 'Content-type': 'text/xml; charset="UTF-8"'}
+2015-12-21 16:14:57,414 INFO Einde management sessie
